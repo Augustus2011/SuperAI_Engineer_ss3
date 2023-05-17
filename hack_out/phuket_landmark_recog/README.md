@@ -1,4 +1,4 @@
-feat. pitiwat ,Patchara Opaspilai
+feat. Pitiwat Lueangwitchajaroen, Patchara Opaspilai
 
 <img width="744" alt="image" src="https://github.com/Augustus2011/SuperAI_Engineer_ss3/assets/107476202/dfaa1a97-2e00-441f-b046-8a6fd351e530">
 
