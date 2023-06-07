@@ -1,4 +1,4 @@
-hack_in == hackathon in side camp
+hack_in == hackathon inside camp
 
 comming soon
 
