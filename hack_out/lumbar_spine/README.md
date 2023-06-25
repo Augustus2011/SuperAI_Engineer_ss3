@@ -1,5 +1,6 @@
 round 1
 data
+
 -lumbar spine(l1-l5) included sarcral(s1)
 -800 image train set of AP,LA view ,200 image test set mixed AP,LA view
 -800 location for each joint.csv
@@ -7,7 +8,9 @@ data
 do.. detection for the joint position
 
 evaluation metric==MSE
+
 approch
+
 1.time series on .csv ,idea joint positions are like wave and its depend on previos joint(squence)  (bad).
 2.yolo detection boxes(fair).
 3.Segment then do detection(best).
@@ -18,6 +21,7 @@ round 2
 
 data
 -la,ap view same as the first round but more 2100 images
+
 do..1.gender classification 2.vertebral position as round 1 3.classify abnormals from their posotions(2.)
 
 evaluation metrics 1.acc exact match 2.mse 3.f1-micro
